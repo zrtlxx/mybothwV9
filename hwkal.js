@@ -21,21 +21,21 @@ global.flasmurf = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutp
 //=================================================//
 //—————「 Set Kebutuhan Button & Kontak 」—————//
 //ubah aja kalau ada yang gapunya gsh di hps anggap aja credits :), note tanda ' gausah di hapus!
-global.youtube = 'https://youtube.com/c/HwModsWa857' // ubah aia
-global.ig = 'https://www.instagram.com/hikal_857/?hl=id' // ubah aja
-global.email = 'denyp857@gmail.com'
+global.youtube = 'https://wa.me/6281223084340' // ubah aia
+global.ig = 'https://wa.me/6281223084340' // ubah aja
+global.email = 'https://wa.me/6281223084340'
 global.region = 'indonesia'
 //—————「 Set Nama Own & Bot 」—————//
-global.ownername = 'HW MODS WA' //ubah jadi nama mu, note tanda ' gausah di hapus!
-global.botname = 'HW MODS WA' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
-global.footer = 'HW MODS WA' //ubah jadi nama mu, note tanda ' gausah di hapus!
+global.ownername = 'ZeroI'sBotz' //ubah jadi nama mu, note tanda ' gausah di hapus!
+global.botname = 'ZeroI'sBotz' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
+global.footer = 'ZeroI'sBotz' //ubah jadi nama mu, note tanda ' gausah di hapus!
 //=================================================//
 // Other
-global.owner = ['6281214281312'] // ubah aja pake nomor lu
-global.premium = ['6281214281312'] // ubah aja pake nomor lu
-global.packname = 'HW MODS WA' // ubah aja
-global.ownerr = ['HW MODS WA'] // ubaha aja
-global.author = 'HW MODS WA' //ubah aja
+global.owner = ['6281223084340'] // ubah aja pake nomor lu
+global.premium = ['6281223084340'] // ubah aja pake nomor lu
+global.packname = 'Zero' // ubah aja
+global.ownerr = ['Zero'] // ubaha aja
+global.author = 'Zero' //ubah aja
 global.sessionName = './sessionye/haikal' //Gausaj Di Ubah
 global.prefa = ['','!','.',',','🐤','🗿'] // Gausah Mendingan 
 global.sp = '⭔' // Gausah Juga
@@ -58,7 +58,7 @@ global.f6 = 'application/vnd.android.package-archive'
 //=================================================//
 global.limitawal = {
     premium: "Infinity",
-    free: 100
+    free: 1
 }
 //=================================================//
 //Terserah Kalau Paham 
